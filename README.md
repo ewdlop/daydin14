@@ -13,7 +13,7 @@ ___
 
 </div>
 
-### Hello! My name is <a href="https://daydin14.github.io">David.</a>
+### Hello! My name is <a href="https://daydin14.github.io">David Aydın.</a>
 </div>
 
 <p align="center">
