@@ -8,7 +8,7 @@ I said to Michael weak.
 
 I said I good at drinking?
 
-Raymond said he is not good with drinks.
+Raymond said Raymond is not good with drinks.
 ___
 <div align="center">
 	
