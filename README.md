@@ -7,6 +7,8 @@ I said we would move to Florida.
 I said to Michael weak.
 
 I said I good at drinking?
+
+Raymond said he is not good with drinks.
 ___
 <div align="center">
 	
