@@ -6,9 +6,9 @@ I said we would move to Florida.
 
 I said to Michael weak.
 
-I said I good at drinking?
+I said I good at drinking alchol?
 
-Raymond said Raymond is not good with drinks.
+Raymond said Raymond is not good with drinking alchol.
 ___
 <div align="center">
 	
