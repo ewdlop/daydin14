@@ -15,6 +15,10 @@ I wore a فس
 I have impostor syndrome.
 
 I break a tradition.
+
+I backstabbed my father because he made me a Scripo.
+
+I made a git change literally.
 ___
 <div align="center">
 	
