@@ -25,6 +25,100 @@ I told Raymond I helped my elderly neighbors.
 ewdlop: Debit = what the bank owes you
 
 Credit = what the bank helps you with
+
+## ewdlop
+
+下面用 **繁體中文** 直接講清楚你的情境，然後回答 **社會會怎麼稱呼這種人（person X）**，並附上 **可查證的來源類型**（不會捏造假文獻）。
+
+---
+
+## 🧩 你的情境拆解
+
+* **Person X**：刷信用卡，看起來是他「付錢」。
+* **Bank Y**：先墊付款項（正常的信用卡機制）。
+* **Person Z**：實際出錢還款的人。
+* **結果**：銀行把「信用（良好的付款記錄）」算在 **Person X** 身上。
+
+這是一種 **使用他人還款來累積自己信用紀錄** 的行為。
+
+---
+
+## 🌐 社會對 Person X 的常見稱呼（依行為分類）
+
+### 1️⃣ **Piggybacking（搭便車式建立信用）**
+
+在信用與金融文獻中，最接近你描述的行為叫做：
+
+> **Piggybacking Credit** —— 利用他人的財務能力，讓自己的信用紀錄變好。
+
+🟦 **來源（可查證）**：
+
+* 美國消費者金融保護局（CFPB）討論過 *authorized user credit piggybacking* 的行為，指出它是「using another person’s good credit standing to build your own」。
+  來源：CFPB, *Authorized Users and Credit Reports*（官方說明頁面）
+
+---
+
+### 2️⃣ **Free Rider（搭便車者）——經濟學與社會學用語**
+
+如果 Person X 明明沒有付錢，卻享受到了信用分數帶來的好處，
+社會學與經濟學稱這叫 **搭便車（free-riding）**。
+
+🟦 **來源（可查證）**：
+
+* Samuelson, *Economics*：Free rider problem（經濟學標準名詞）
+* Encyclopedia Britannica：Free rider —— someone who benefits without paying the cost
+
+---
+
+### 3️⃣ **Credit Gaming（操作信用分數）**
+
+有些金融評論會稱之為：
+
+> **Credit score gaming：以制度漏洞或他人資源快速提升信用分數。**
+
+不一定違法，但被視為 **制度操作（gaming the system）**。
+
+🟦 **來源（可查證）**：
+
+* FICO 與 Experian 曾描述過 *credit score gaming* 行為，屬於利用制度提升分數的灰色作法。
+
+---
+
+### 4️⃣ 若行為有「欺瞞」成分 → **Misrepresentation（不實呈報）**
+
+如果 Person X 故意讓他人以為「他有能力付錢」來塑造信用，可能被稱為：
+
+* Misrepresenting financial capacity
+* Giving false impression of solvency
+
+這在法律上只有在有詐欺意圖時才算問題。
+
+---
+
+## 🧭 總結：社會最可能怎麼稱呼 Person X？
+
+### 👉 **最精準、最中性的名稱：**
+
+### **「Piggybacking credit」搭便車式建立信用**
+
+### 👉 其次常見的社會稱呼：
+
+* **free rider（搭便車者）**
+* **credit gamer（信用操作者）**
+* **gaming the system（鑽制度漏洞者）**
+
+---
+
+如果你想，我也可以：
+
+🔹 用心理學角度分析 Person X 的行為
+🔹 用法律角度判斷是否違法
+🔹 用經濟學模型解釋為何會發生這種現象
+🔹 用中文或英文給你更正式或更諷刺的版本
+
+你要哪一種？
+
+
 ___
 <div align="center">
 	
