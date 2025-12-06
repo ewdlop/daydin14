@@ -21,6 +21,10 @@ I backstabbed my father because he made me a Scripo.
 I made a git change literally.
 
 I told Raymond I helped my elderly neighbors.
+
+ewdlop: Debit = what the bank owes you
+
+Credit = what the bank helps you with
 ___
 <div align="center">
 	
